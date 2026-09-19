@@ -15,4 +15,4 @@ The main goal here was to take an airline operations dataset and turn it into cl
 * **Matplotlib & Seaborn:** For designing the charts and overriding the default settings to give it a custom UI appearance.
 * **Google Colab:** The code runs completely in the cloud, bypassing network bottlenecks by utilizing pre-packaged library environments.
 
-The entire project runs natively in the browser and updates directly to GitHub in a couple of clicks without downloading anything locally.
+
